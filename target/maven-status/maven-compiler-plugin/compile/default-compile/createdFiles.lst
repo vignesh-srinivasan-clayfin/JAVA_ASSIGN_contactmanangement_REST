@@ -1,0 +1,7 @@
+com/resource/modals/response/AllContactsResponseModal.class
+com/resource/modals/response/AddContactResponseModal.class
+com/resource/common/Helper.class
+com/resource/modals/ContactsModal.class
+com/resource/modals/response/ResponseModal.class
+com/resource/common/ResponseHelper.class
+com/resource/modals/request/AddContactRequestModal.class
